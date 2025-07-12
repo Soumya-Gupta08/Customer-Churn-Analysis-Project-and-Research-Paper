@@ -13,7 +13,7 @@ I have also completed a **comprehensive research paper** based on this project, 
 - Model performance
 - Insights & conclusion
 
-📎 **[Access the Research Paper Here](https://drive.google.com/drive/u/1/folders/1H5GyqWQ0uIvRCzC8-tZtE0zU3wfr9hLI)**
+📎 **[Access the Research Paper Here](https://drive.google.com/file/d/1v-GjzsMkgLo-sBc5CIa43WymaKIdmC83/view?usp=drivesdk)**
 
 ---
 
@@ -24,7 +24,7 @@ I have also completed a **comprehensive research paper** based on this project, 
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
-- Logistic Regression, Decision Tree, Random Forest
+- Logistic Regression
 
 ---
 
@@ -54,15 +54,3 @@ For any questions or collaborations, feel free to reach out:
 📧 soumya196btcseai23@igdtuw.ac.in
 
 ⭐ Star this repository if you find it helpful!
-
-yaml
-
-
----
-
-Let me know if you'd like to include:
-- Sample output visuals or graphs
-- Accuracy or confusion matrix screenshots
-- Kaggle dataset link (if used)
-
-Also, I can help you generate a PDF of this if needed.
